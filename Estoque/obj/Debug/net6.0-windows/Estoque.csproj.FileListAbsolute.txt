@@ -1,0 +1,17 @@
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.csproj.AssemblyReference.cache
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.Form1.resources
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.csproj.GenerateResource.cache
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.AssemblyInfoInputs.cache
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.AssemblyInfo.cs
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\2022102020037\source\repos\Estoque\Estoque\bin\Debug\net6.0-windows\Estoque.exe
+C:\Users\2022102020037\source\repos\Estoque\Estoque\bin\Debug\net6.0-windows\Estoque.deps.json
+C:\Users\2022102020037\source\repos\Estoque\Estoque\bin\Debug\net6.0-windows\Estoque.runtimeconfig.json
+C:\Users\2022102020037\source\repos\Estoque\Estoque\bin\Debug\net6.0-windows\Estoque.dll
+C:\Users\2022102020037\source\repos\Estoque\Estoque\bin\Debug\net6.0-windows\Estoque.pdb
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.dll
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\refint\Estoque.dll
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.pdb
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\Estoque.genruntimeconfig.cache
+C:\Users\2022102020037\source\repos\Estoque\Estoque\obj\Debug\net6.0-windows\ref\Estoque.dll
