@@ -20,13 +20,13 @@ namespace Estoque
            
             p.ValorTotal();
             txt_venda.Text = p.valorVenda.ToString();
-            produtos.Add(p);
-            MessageBox.Show(produtos[0].ToString());
 
-            foreach (Produto str in produtos)
-            {
-               // MessageBox.Show(str.ToString());
-            }
+            produtos.Add(p);
+
+
+            table_produtos.Rows.Add(p.codigo, p.descricao, p.precoCompra, p.lucro, p.valorVenda);
+            
+            
         }
     }
 }
